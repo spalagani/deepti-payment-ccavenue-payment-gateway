@@ -1,7 +1,7 @@
 <?php
  // ob_start();
 
-require("libfuncs.php3");
+
 //session_unregister(redirect);
 
 if($_POST['amount']){
